@@ -1,0 +1,20 @@
+# Secrets / env
+.Renviron
+
+# Historique & sessions locales
+.Rhistory
+.RData
+.Rproj.user/
+
+# Déploiement (optionnel de versionner)
+rsconnect/
+
+# renv: ne jamais versionner la bibliothèque locale
+renv/library/
+
+# OS / éditeurs
+.DS_Store
+Thumbs.db
+
+# (facultatif) Fichier projet RStudio
+# app1_IA.Rproj
